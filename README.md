@@ -48,6 +48,8 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 #### [+] Easy for Beginners !
 
 ## Credits :
+### > All Credits Goto: Tahmid Rayat, The founder of HTR-Tech.
+### > HTR-Tech 
 #### > Zphisher (https://github.com/htr-tech/zphisher)
 #### > The Linux Choice (https://github.com/thelinuxchoice)
 #### > DarkSecDevelopers (https://github.com/DarkSecDevelopers)
