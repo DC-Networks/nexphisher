@@ -63,8 +63,5 @@ apt update ; apt install git -y ; git clone git://github.com/DC-Networks/nexphis
 #### > LOCALXPOSE (https://localxpose.io/)
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
-
-
+[![Github](https://img.shields.io/badge/Github-DC--NETWORKS-green?style=for-the-badge&logo=github)](https://github.com/DC-Networks)
+[![Instagram](https://img.shields.io/badge/IG-%40dreal_salman-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/dreal_salman)
